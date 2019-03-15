@@ -3,7 +3,4 @@ The program will assume that the user enters a number, if anything but a number 
 any input on this would be appreciated. Once the games are finished the program will ask if you would like your scores,
 you can accept or decline this request.
 
-If compiling the program gives you a "no such file found" error try this:
-g++ 'RPS Game.cpp', if you know how to fix this please let me know.
-
 That's all! I Hope it provides some entertainment.
